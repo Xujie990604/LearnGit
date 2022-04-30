@@ -11,3 +11,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 傻子公司
+
+远程仓库之后的改动
